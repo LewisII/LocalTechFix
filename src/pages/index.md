@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Local Simple Solutions
 image: /img/home-jumbotron.jpg
-heading: sdwe
+heading: Custom Computers
 subheading: 'Computers, Networking, Web Development'
 mainpitch:
   title: Why Local Tech Fix
@@ -10,10 +10,8 @@ mainpitch:
     I take great pride in my work, to be knowledgeable and reliable in your
     computer repairs and web site creation ensuring it is done right.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Completely installed and set up custom computers, with a wide range of
+  component selections to fit any budget upgrade options with RGB as well.
 intro:
   blurbs:
     - image: /img/coffee.png
