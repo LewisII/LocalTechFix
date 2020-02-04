@@ -1,20 +1,4 @@
-## Setup
-
-> Install yarn on your system: [https://yarnpkg.com/en/docs/install](https://yarnpkg.com/en/docs/install)
-
-### Install dependencies
-
-> Only required on the first run, subsequent runs can use `yarn` to both
-bootstrap and run the development server using `yarn develop`.
-Since this starter using the [netlify-dev](https://www.netlify.com/products/dev/#how-it-works), there could be further issues you, please check the [netlify-dev](https://github.com/netlify/netlify-dev) repository for further information and set up questions. 
-
-```sh
-$ git clone https://github.com/netlify-templates/gatsby-starter-netlify-cms
-$ yarn 
-```
-
 ## Available scripts
-
 
 ### `build`
 
