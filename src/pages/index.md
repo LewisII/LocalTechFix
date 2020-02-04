@@ -5,12 +5,10 @@ image: /img/home-jumbotron.jpg
 heading: sdwe
 subheading: 'Computers, Networking, Web Development'
 mainpitch:
-  title: Why Kaldi
+  title: Why Local Tech Fix
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    I take great pride in my work, to be knowledgeable and reliable in your
+    computer repairs and web site creation ensuring it is done right.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
