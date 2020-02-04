@@ -14,7 +14,7 @@ description: >-
   component selections to fit any budget upgrade options with RGB as well.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/computer.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
