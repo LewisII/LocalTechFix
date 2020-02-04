@@ -11,8 +11,6 @@ const TemplateWrapper = ({ children }) => {
   return (
     <div>
       <Helmet>
-        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
