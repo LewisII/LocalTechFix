@@ -88,15 +88,6 @@ yarn remove netlify-cms-media-library-uploadcare
 OR
 ```
 yarn remove netlify-cms-media-library-cloudinary
-```
-## Getting Started (Without Netlify)
-
-```
-$ gatsby new [SITE_DIRECTORY_NAME] https://github.com/netlify-templates/gatsby-starter-netlify-cms/
-$ cd [SITE_DIRECTORY_NAME]
-$ npm run build
-$ npm run serve
-```
 
 ### Setting up the CMS
 
